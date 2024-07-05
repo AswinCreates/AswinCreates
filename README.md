@@ -1,4 +1,4 @@
-### Hi there, I'm [Dexter](https://www.instagram.com/ashwincognito/) 😎
+### Hey Human, I'm [Dexter](https://www.instagram.com/ashwincognito/) 😎
 
 
 ### Discord :
