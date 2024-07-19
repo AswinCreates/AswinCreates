@@ -1,4 +1,7 @@
 ### Hey Human, I'm [Dexter](https://www.instagram.com/ashwincognito/) 😎
+<p  align="center">
+<a  href="https://github.com/sarcasterXO"><img  src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=30&duration=3000&pause=1000&color=F72002&center=true&width=500&height=50&lines=Backend+Developer;Quick+Learner;Graphic+Designer;Video+Editor;Gamer"></a>
+</p>
 
 
 ### Discord :
