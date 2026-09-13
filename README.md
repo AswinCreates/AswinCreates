@@ -1,10 +1,9 @@
-### Hey Human, I'm [Dexter](https://www.instagram.com/ashwincognito/) 😎
+> [!IMPORTANT]
+> My GitHub profile is _**not**_ the place to look for my projects, barring two or three of them. You may visit my [portfolio](https://aswinrout.is-a.dev/projects) for it.
 
 
+For contact information or general information about me, visit https://aswinrout.is-a.dev/.
 
-
-
-### Discord :
-[![Discord Presence](https://lanyard.cnrad.dev/api/952073733705724026)](https://discord.com/users/952073733705724026)
-
-### Find Me [Here](https://discordapp.com/users/952073733705724026)
+Building :
+> [mvfrwd](https://mvfrwd.vercel.app)
+> [Yokai Devs](https://instgram.com/yokai_devs)
